@@ -22,7 +22,7 @@ I’m focused on improving processes and solving problems creatively. I value co
  </details>
  
  ##### Tecnologias que mais estudo. / Technologies that i most study.
- [![My Skills](https://skillicons.dev/icons?i=aws,js,html,css,py)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=aws,js,html,css,py,linux)](https://skillicons.dev)
  
  ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
  
